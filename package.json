@@ -4,6 +4,7 @@
   "private": true,
   "description": "A Vue.js & Spring Boot example project",
   "author": "Jonas Hecht <jonas.hecht@codecentric.de>",
+  "prod": "vue-cli-service --mode prod build",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
